@@ -93,4 +93,8 @@ Negation !
 Functions
 -------------------------
 
-
+save an entire code block as function and call it when ever you want
+eg:
+function calculateShippingCost(){
+Code Block
+}
