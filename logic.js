@@ -10,4 +10,8 @@ function calculateShippingCost() {
     }
 
     console.log(`your shipping cost is ${shippingCost}`)
+
+
 }
+
+calculateShippingCost();//calling a function
