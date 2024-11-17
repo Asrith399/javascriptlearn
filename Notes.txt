@@ -1,0 +1,96 @@
+
+DataTypes
+-------------------------
+Whole Number or Integer: 1,2,3,4,
+decimal: 1.1,2.0
+String: anything in qoutes 'abc',"abc","1",'1',"1.1",'1.1'
+boolean: true or false
+Array: declared as [], 
+object: {}
+
+
+Variables
+------------------------
+variable: used to store value
+var username = "Asrith"
+
+const or constant : value should not change
+const brand = "Nike"
+
+let : can be used to declare variables which value can change
+let name = "asrith"
+
+
+Conditional and Comparison
+---------------------------------
+comparison:
+=
+== or ===
+
+difference with an Example:
+var age = 30
+
+age == 30
+true
+age === 30
+true
+age == "30"
+true
+age === "30"
+false
+
+== only check the value (equality of the value)
+=== check equality of the value and the datatype
+
+IF/ELSE
+
+eg:
+
+let totalPrice = 19;
+let shippingCost;
+
+if(totalPrice > 20)
+shippingCost = 5
+}
+else{
+shippingCost = 0
+}
+
+if (totalprice <= 10){
+shippingCost =5
+} else if ( totalPrice <= 20 ){
+ShippingCost =3
+}else{
+shippingCost=0
+}
+
+!= : not equals
+--------------------------
+
+let userMembership
+
+if(userMenbership !=== 'premium')
+{
+//Show usernot premium
+//show subcribe to premium
+}
+else{
+show premium content
+}
+
+Logical Operator
+---------------------
+AND &&
+
+if(todaydate === Birthdaydate && birthdaydisplayed === true)
+
+OR ||
+
+totalprice > 20 || amzonprime= true
+
+Negation !
+
+Functions
+-------------------------
+
+
